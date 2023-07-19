@@ -1,0 +1,10 @@
+header>ul {
+    background-color: red;
+}
+header>ul>li{
+    /* background-color: aqua; */
+    display:inline;
+    margin-right: 20px;
+    text-transform: uppercase;
+    color:chartreuse;
+}
